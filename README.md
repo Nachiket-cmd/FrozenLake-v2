@@ -59,10 +59,7 @@ The agent learns to find the optimal path on an 8x8 randomly generated Frozen La
 - Test on custom, larger map sizes (e.g., 10x10 or 12x12 grids)
 - Compare Q-Learning performance against SARSA algorithm
 
----
 
-## 📂 Project Structure
-- **RL_FrozenLake_v1.ipynb** – Main notebook containing the implementation and results
 
 ---
 
